@@ -5,6 +5,10 @@
     "permissions": [
         "declarativeNetRequest"
     ],
+    "icons": {
+        "48": "icons/icon48.png",
+        "96": "icons/icon96.png"
+    },
     "declarative_net_request": {
         "rule_resources": [
             {

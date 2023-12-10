@@ -1,5 +1,5 @@
 {
-    "name": "simple ad blocker",
+    "name": "AdBlock-Lite",
     "version": "1.0.0",
     "manifest_version": 3,
     "permissions": [

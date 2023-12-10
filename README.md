@@ -25,6 +25,12 @@ AdBlock-Lite is a lightweight Chrome extension designed to block ads from popula
 1. After installation, the AdBlock-Lite icon will appear in the Chrome toolbar.
 2. Click the icon to access extension options or view blocked ads statistics.
 
+Certainly! If you want to provide users with a quick instruction on how to test your extension on a specific website, here's a short paragraph you can add to your documentation:
+
+## Testing AdBlock-Lite
+
+To experience the ad-blocking capabilities of AdBlock-Lite, visit [Speedtest.net](https://www.speedtest.net/). Once the extension is installed, you'll notice a cleaner and ad-free environment during your speed tests. AdBlock-Lite uses customizable rules to block ads from various networks, enhancing your browsing experience. Ensure the extension is enabled, and visit the provided link to see the results firsthand.
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions, bug reports, or want to add more ad-blocking rules, please open an issue or submit a pull request.
